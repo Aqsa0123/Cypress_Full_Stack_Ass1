@@ -1,0 +1,14 @@
+{
+    "firstname": "Aqsa",
+    "lastname": "Zahoor",
+    "formcontrolselection": "Running",
+    "department": "MCR",
+    "username": "1234aqsa",
+    "password": "Password1",
+    "confirmpassword": "Password1",
+    "email": "assignment1@abc.com",
+    "contactno": "123456789012",
+    "text": "this is an automated test.",
+    "successtext": "Success  Success!."
+  }
+  
