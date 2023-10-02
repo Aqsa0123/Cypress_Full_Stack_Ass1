@@ -1,5 +1,29 @@
 {
-  "name": "Using fixtures to represent data",
-  "email": "hello@cypress.io",
-  "body": "Fixtures are a great way to mock data for responses to routes"
+  "data_test1":{
+  "user_fullName": "Ahmed Ali",
+  "user_enterEmail": "ali@yopmail.com",
+  "user_currentAddress": "123Street",
+  "user_permanentAddress": "1234Street"
+},
+
+
+  "data_test3":{
+    "user_firstName": "Talha",
+    "user_lastName": "Ali",
+    "user_emailAddress": "talha@yopmail.com",
+    "user_age": "25",
+    "user_salary": "90000",
+    "user_department": "IT department"
+  },
+  
+  "data_test4":{
+    "user_bookName": "Learning JavaScript Design Patterns",
+    "book_ISBN": "9781449331818",
+    "book_Title": "Learning JavaScript Design Patterns",
+    "book_Subtitle": "A JavaScript and jQuery Developer's Guide",
+    "book_Author": "Addy Osmani",
+    "book_Publisher": "O'Reilly Media",
+    "book_Total_Page": "254"
+  
+  }
 }
